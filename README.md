@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/25284536/90274607-2535a000-de76-11ea-9d21-ab8c3e68b3a9.png" width="400"> <img src="https://user-images.githubusercontent.com/25284536/90274626-29fa5400-de76-11ea-97a7-c6b67ec2f66a.png" width="400">
 
-Weather App built with React.
-[Live Demo](https://vasanth-reactweather.netlify.app/)
+
 
 ## Tech Stack
 
@@ -29,7 +28,7 @@ REACT_APP_WEATHER_API_KEY=YOUR_KEY
 Finally clone this repository, install dependencies and run the local server
 
 ```bash
-git clone https://github.com/vasanthman/reactweather.git
+git clone https://github.com/esnz/reactweather.git
 ```
 
 ```bash

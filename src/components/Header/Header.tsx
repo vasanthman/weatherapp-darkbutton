@@ -15,9 +15,7 @@ const Header: React.FC = () => {
       <Title>React Weather</Title>
       <HeaderIconsContainer>
         <DarkModeToggle checked={isDarkMode} onChange={() => dispatch(toggleDarkMode())} size={60} />
-        <GithubLink href="http://www.github.com/esnz/reactweather">
-          <GithubIcon />
-        </GithubLink>
+       
       </HeaderIconsContainer>
     </HeaderContainer>
   );
